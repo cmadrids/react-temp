@@ -1,5 +1,5 @@
 import { Login, Register, StudentGrades } from "../../pages";
-import { Routes } from "../enums/routes.enum";
+import { Routes } from "../enums/Routes.enum";
 import { IRoute } from "../models/IRoute.model";
 
 const ROUTES: Array<IRoute> = [{
